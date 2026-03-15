@@ -111,5 +111,9 @@ If you use this code in academic research, please cite:
 - Rozianawaty Osman
 - Nooraini Yusoff
 - Xiaowei Gu
- 
+
+---
+
 Adaptive Liza Yunus Nurzea Local Outlier Factor (AlynLOF)
+
+---
