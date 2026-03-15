@@ -79,10 +79,10 @@ pip install numpy scipy pandas kneed scikit-learn h5py
 
 If you use this code in academic research, please cite:
 
-Basheer, M. Y. I., Ali, A. M., Hamid, N. H. A., Nordin, S., Osman, R., Yusoff, N., & Gu, X. (2026).  
-**Adaptive Local Outlier Factor.**  
-*Evolving Systems*, 17(2), 44.  
-https://doi.org/10.1007/s12530-026-09808-y
+> Basheer, M. Y. I., Ali, A. M., Hamid, N. H. A., Nordin, S., Osman, R., Yusoff, N., & Gu, X. (2026).  
+> **Adaptive Local Outlier Factor.**  
+> *Evolving Systems*, 17(2), 44.  
+> https://doi.org/10.1007/s12530-026-09808-y
 
 ### BibTeX
 
